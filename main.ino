@@ -42,7 +42,7 @@ void setup() {
 // put your setup code here, to run once:
   Serial.begin(115200);
 
-   R=100; Q=1; Pt_prev=1;
+   R=1; Q=1; Pt_prev=1;
 
   WiFi.begin(WIFI_SSID, WIFI_PASSWORD);
   Serial.print("Connecting to Wi-Fi");
