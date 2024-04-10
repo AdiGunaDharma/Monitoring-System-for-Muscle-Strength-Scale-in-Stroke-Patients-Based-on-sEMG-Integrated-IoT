@@ -1,0 +1,1 @@
+# Monitoring-System-for-Muscle-Strength-Scale-in-Stroke-Patients-Based-on-sEMG-Integrated-IoT
